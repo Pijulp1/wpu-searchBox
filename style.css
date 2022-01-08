@@ -108,7 +108,7 @@ body
 .searchBox:hover input::placeholder,
 .searchBox:hover input
 {
-    color: transparent;
+    color: #555;
 }
 
 ion-icon
